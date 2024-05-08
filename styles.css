@@ -7,7 +7,7 @@
 }
 
 html {
-    background-color: hsl(220, 15%, 55%);
+    background-color: D6E1F0;
 }
 
 body {
@@ -40,6 +40,7 @@ main p {
 
 main h1 {
     font-size: 25px;
+    margin-top: 12px;
 }
 main p {
     font-size: 15px;
